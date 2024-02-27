@@ -1,7 +1,5 @@
 # Apple_vision_clone
 
-- created Apple Vision Website clone using  only HTML | CSS | JAVASCRIPT !!!
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - PROJECT OVERVIEW :
@@ -10,6 +8,8 @@
   This project is a clone of the homepage of Apple Vision Pro website, aiming to replicate the design and functionality using the following
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ - PROJECT LIVE DEMO LINK : https://apple-vision-clone-gules.vercel.app/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - TECHNOLOGIES:
 - HTML: Structuring the web content.
@@ -20,3 +20,4 @@
 - Locomotive Scroll: Creating a smooth scroll experience.
 
 
+ 
